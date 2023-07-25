@@ -1,0 +1,16 @@
+canvas {
+  position: absolute;
+  right: 50%;
+  margin-left: -50%;
+  transform: translateX(50%);
+  margin-bottom: 40px;
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+#mode {
+  position: absolute;
+}
